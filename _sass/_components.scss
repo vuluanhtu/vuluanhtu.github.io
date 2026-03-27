@@ -78,6 +78,25 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.profile.profile-top {
+  width: 100%;
+  margin-bottom: 2rem;
+  text-align: center;
+
+  img {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .more-info {
+    margin-top: 1rem;
+
+    p {
+      display: block;
+    }
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
@@ -87,6 +106,12 @@ ul.task-list input[type="checkbox"] {
         display: block;
       }
     }
+  }
+
+  .profile.profile-top {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 2rem auto;
   }
 }
 
