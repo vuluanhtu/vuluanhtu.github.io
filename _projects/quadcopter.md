@@ -12,7 +12,6 @@ images:
 ---
 
 ## Project Overview
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 **Duration:** August 2020 - December 2020  
@@ -40,11 +39,9 @@ Designed and built a fully functional quadcopter from scratch, featuring custom 
 ---
 
 ## Design & Development
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 ### Mechanical Design
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 **Frame Design:**
@@ -79,7 +76,6 @@ Based on thrust, weight, and flight time requirements, selected and integrated:
 </div>
 
 ### Electronics & Power System
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 - Circuit design and wiring schematic
@@ -91,11 +87,9 @@ Based on thrust, weight, and flight time requirements, selected and integrated:
 ---
 
 ## Control System Development
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 ### PID Algorithm Implementation
-
 {: .mt-4 .mb-3 .font-weight-bold }
 Developed a complete PID (Proportional-Integral-Derivative) control algorithm **from scratch** in C++ to stabilize the quadcopter during flight.
 
@@ -114,7 +108,6 @@ Developed a complete PID (Proportional-Integral-Derivative) control algorithm **
 - Achieved stable hover and responsive control
 
 ### Code Optimization
-
 {: .mt-4 .mb-3 .font-weight-bold }
 Embedded systems require efficient code execution for real-time control. Implemented advanced optimization techniques:
 
@@ -130,11 +123,9 @@ Embedded systems require efficient code execution for real-time control. Impleme
 ---
 
 ## Wireless Control Interface
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 ### RemoteXY Smartphone App
-
 {: .mt-4 .mb-3 .font-weight-bold }
 Designed custom control interface on iPhone using RemoteXY platform:
 
@@ -157,7 +148,6 @@ Designed custom control interface on iPhone using RemoteXY platform:
 </div>
 
 ### Communication Protocol
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 - ESP8266 Wi-Fi module integration
@@ -168,11 +158,9 @@ Designed custom control interface on iPhone using RemoteXY platform:
 ---
 
 ## Testing & Validation
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 ### Prototype Assembly
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 - 3D printed all custom frame components
@@ -181,7 +169,6 @@ Designed custom control interface on iPhone using RemoteXY platform:
 - Balance testing and center of gravity verification
 
 ### Flight Testing
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 - Initial tethered testing for safety
@@ -193,11 +180,9 @@ Designed custom control interface on iPhone using RemoteXY platform:
 ---
 
 ## Technical Skills Demonstrated
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 ### Mechanical Engineering
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 - **CAD Design** - Structural frame design in SolidWorks
@@ -206,7 +191,6 @@ Designed custom control interface on iPhone using RemoteXY platform:
 - **System Integration** - Mechanical and electrical integration
 
 ### Embedded Programming
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 - **C/C++ Programming** - Arduino IDE development
@@ -215,7 +199,6 @@ Designed custom control interface on iPhone using RemoteXY platform:
 - **Real-time Systems** - Timing-critical control loops
 
 ### Electronics & Mechatronics
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 - **Sensor Integration** - MPU6050 IMU interfacing
@@ -224,7 +207,6 @@ Designed custom control interface on iPhone using RemoteXY platform:
 - **Power Systems** - Li-Po battery management
 
 ### Control Systems
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 - **PID Tuning** - Empirical parameter optimization
@@ -234,7 +216,6 @@ Designed custom control interface on iPhone using RemoteXY platform:
 ---
 
 ## Engineering Value
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 This project showcases the ability to:

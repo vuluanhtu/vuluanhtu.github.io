@@ -16,10 +16,9 @@ images:
 > **45+** component assembly • **$1,000** budget • **115-page** technical report
 >
 > 📅 Jan 2020 - Dec 2020 | 🎓 Senior Capstone | 🏛️ Purdue University Fort Wayne | 🏢 Sponsor: American Landmaster
-> {: .block-tip }
+{: .block-tip }
 
 ## Project Overview
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 **Duration:** January 2020 - December 2020  
@@ -33,31 +32,28 @@ Developed a modular attachment adapter system for utility terrain vehicles (UTVs
 ---
 
 ## Design Challenge
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 American Landmaster required a modular lift mechanism that would allow their UTV customers to quickly swap between different attachments (plows, buckets, forks, etc.) without tools. The system needed to be:
 
 > **🎯 Cost-effective** — Manufacturable within a $1,000 budget
-> {: .block-tip }
+{: .block-tip }
 
 > **🔒 Reliable** — Safe operation under various load conditions
-> {: .block-tip }
+{: .block-tip }
 
 > **🔧 User-friendly** — Quick-connect mechanism for field use
-> {: .block-tip }
+{: .block-tip }
 
 > **🔗 Universal** — Compatible with standard implement interfaces
-> {: .block-tip }
+{: .block-tip }
 
 ---
 
 ## Technical Solution
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 ### Concept Selection
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 Multiple design concepts were evaluated using a weighted decision matrix to identify the best kinematic mechanism for the lift system. Criteria included manufacturability, cost, reliability, and ease of use.
@@ -81,7 +77,6 @@ Multiple design concepts were evaluated using a weighted decision matrix to iden
 </div>
 
 ### Mechanical Design
-
 {: .mt-4 .mb-3 .font-weight-bold }
 Designed a complete sheet metal and mechanical assembly system consisting of 45+ components, integrating both custom-fabricated and off-the-shelf parts.
 
@@ -101,7 +96,6 @@ Designed a complete sheet metal and mechanical assembly system consisting of 45+
 - Part sourcing and supplier coordination
 
 ### Analysis & Validation
-
 {: .mt-4 .mb-3 .font-weight-bold }
 Comprehensive engineering analysis ensured safe and reliable operation:
 
@@ -194,11 +188,9 @@ A four-bar linkage was used as the basis for the lift mechanism. MATLAB and Soli
 ---
 
 ## Fabrication & Manufacturing
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 ### Technical Drawings
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 <div class="pswp-gallery" id="gallery-drawings">
@@ -220,7 +212,6 @@ A four-bar linkage was used as the basis for the lift mechanism. MATLAB and Soli
 </div>
 
 ### Bill of Materials
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 <div class="pswp-gallery" id="gallery-bom">
@@ -244,7 +235,6 @@ A four-bar linkage was used as the basis for the lift mechanism. MATLAB and Soli
 ---
 
 ## Prototyping & Testing
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 All components were fabricated and assembled for functional prototype testing including load capacity verification and field condition reliability testing.
@@ -270,12 +260,11 @@ All components were fabricated and assembled for functional prototype testing in
 > **Testing Results**
 >
 > Physical prototype testing confirmed design validity with load capacity verification and field condition reliability testing, all documented in the **115-page technical report**.
-> {: .block-tip }
+{: .block-tip }
 
 ---
 
 ## Project Outcomes
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 **Deliverables:**
@@ -287,7 +276,6 @@ All components were fabricated and assembled for functional prototype testing in
 - Test data and performance validation
 
 ### Final Presentation Poster
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 <div class="pswp-gallery" id="gallery-poster">
@@ -312,7 +300,6 @@ All components were fabricated and assembled for functional prototype testing in
 ---
 
 ## Technical Skills Demonstrated
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 - **Design for Manufacturing** - Sheet metal and weldment design
@@ -327,7 +314,6 @@ All components were fabricated and assembled for functional prototype testing in
 ---
 
 ## Engineering Value
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 This project demonstrates practical engineering skills critical for product development:

@@ -13,10 +13,9 @@ images:
 ---
 
 > 📅 Aug 2021 - May 2023 | 🎓 Master's Thesis | 🏛️ Purdue University Fort Wayne
-> {: .block-tip }
+{: .block-tip }
 
 ## Project Overview
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 This project represents my Master's thesis research, focusing on the design, development, and testing of a **novel mobile, modular, and self-reconfigurable robotic system**. The system is capable of adapting its configuration to perform various tasks in dynamic environments, demonstrating significant improvements in versatility and efficiency compared to traditional robotic systems.
@@ -24,35 +23,32 @@ This project represents my Master's thesis research, focusing on the design, dev
 ---
 
 ## Key Achievements
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 > **📚 Comprehensive Literature Review** — Researched and analyzed over **100 referenced research papers** on modular robotics
-> {: .block-tip }
+{: .block-tip }
 
 > **⚙️ Novel Mechanism Design** — Designed a linear actuator and gear transmission system following **ASME standards** to control **6 degrees of freedom** with only **2 DC motors**
-> {: .block-tip }
+{: .block-tip }
 
 > **🧮 First-Principles Analysis** — Calculated power transmission capacity of gears, stack-up tolerances, and analyzed stress on critical components
-> {: .block-tip }
+{: .block-tip }
 
 > **💻 FEA Validation** — Simulated motion and stress in **SolidWorks**, iteratively optimizing the design based on simulation results
-> {: .block-tip }
+{: .block-tip }
 
 > **🔧 Physical Prototype** — 3D printed and assembled a **functional prototype** of 1 robot module
-> {: .block-tip }
+{: .block-tip }
 
 > **📄 Academic Publication** — Published findings in a **34,000-word thesis** and **peer-reviewed journal article** (MDPI Actuators)
-> {: .block-tip }
+{: .block-tip }
 
 ---
 
 ## Technical Approach
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 ### Mechanical Design
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 The core innovation lies in the actuator and transmission system design. By employing a clever gear arrangement and linear actuation mechanism, the system achieves **6-DOF motion control** using only **two motors** - significantly reducing weight, complexity, and power requirements compared to conventional designs.
@@ -113,7 +109,6 @@ The core innovation lies in the actuator and transmission system design. By empl
 ---
 
 ### Configuration Morphability
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 One of the key features is the system's ability to reconfigure into different formations for various tasks:
@@ -139,7 +134,6 @@ One of the key features is the system's ability to reconfigure into different fo
 ---
 
 ### Analysis & Validation
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 Extensive simulation work was performed to validate the design before prototyping:
@@ -196,7 +190,6 @@ SolidWorks motion simulation demonstrating the autonomous docking mechanism:
 ---
 
 ### Prototyping
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 All components were designed for 3D printing assembly, including:
@@ -221,7 +214,6 @@ All components were designed for 3D printing assembly, including:
 ---
 
 ## Technical Skills Demonstrated
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 - **CAD Modeling** - Complex 3D assemblies in SolidWorks
@@ -235,7 +227,6 @@ All components were designed for 3D printing assembly, including:
 ---
 
 ## Publications
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 > **📄 Journal Article**
@@ -243,19 +234,18 @@ All components were designed for 3D printing assembly, including:
 > Vu, L. A. T., Bi, Z., Mueller, D., & Younis, N. (2023). "Modular Self-Configurable Robots—The State of the Art." _Actuators_, 12(9), 361.
 >
 > [https://doi.org/10.3390/act12090361](https://doi.org/10.3390/act12090361)
-> {: .block-tip }
+{: .block-tip }
 
 > **🎓 Master's Thesis**
 >
 > Vu, L. A. T. (2023). "A Mobile, Modular, and Self-Reconfigurable Robotic System with Morphability." Purdue University Graduate School.
 >
 > [https://doi.org/10.25394/PGS.24784308](https://doi.org/10.25394/PGS.24784308)
-> {: .block-tip }
+{: .block-tip }
 
 ---
 
 ## Impact
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 This research contributes to the field of modular robotics by demonstrating a practical approach to morphable robot design. The system's ability to reconfigure itself opens applications in:
@@ -268,4 +258,4 @@ This research contributes to the field of modular robotics by demonstrating a pr
 > **Impact Statement**
 >
 > The publication in MDPI Actuators Journal ensures this work is accessible to the broader research community and serves as a foundation for future developments in reconfigurable robotics.
-> {: .block-tip }
+{: .block-tip }

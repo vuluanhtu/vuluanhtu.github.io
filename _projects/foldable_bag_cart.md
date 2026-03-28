@@ -16,10 +16,9 @@ images:
 > **Patent-Pending** innovation • **4x** customer setup time reduction • **3x** shipping cost reduction
 >
 > 📅 2023 - Present | 🏢 Par-Kan Company | ✈️ Ground Support Equipment | 🔒 Patent Pending
-> {: .block-tip }
+{: .block-tip }
 
 ## Project Overview
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 **Type:** Professional Product Development  
@@ -45,31 +44,28 @@ Designed and developed a reengineered collapsible baggage cart for airport groun
 ---
 
 ## Design Challenge
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 Traditional baggage carts used at airports are rigid, bulky structures that occupy large amounts of space when not in use and are expensive to ship in quantity. Par-Kan needed a redesigned cart that would:
 
 > **📦 Reduce Shipping Costs** — Collapse to a fraction of the deployed volume for cost-effective bulk shipping
-> {: .block-tip }
+{: .block-tip }
 
 > **⚡ Minimize Setup Time** — Allow rapid field assembly/disassembly without tools
-> {: .block-tip }
+{: .block-tip }
 
 > **🏋️ Maintain Load Capacity** — Match or exceed the structural performance of conventional rigid carts
-> {: .block-tip }
+{: .block-tip }
 
 > **🔒 Ensure Reliability** — Withstand repetitive folding cycles and harsh airport ramp environments
-> {: .block-tip }
+{: .block-tip }
 
 ---
 
 ## Technical Solution
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 ### Design Study
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 Design of Experiment (DOE) methodology was applied to evaluate multiple critical component configurations and mechanism concepts, aiming to find the optimal balance of structural integrity, ease of use, and manufacturability.
@@ -88,7 +84,6 @@ Design of Experiment (DOE) methodology was applied to evaluate multiple critical
 </div>
 
 ### Folding Mechanism
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 The cart features a **power screw-driven folding mechanism** that enables controlled collapse of the end walls and roof structure. Key engineering analyses were performed to size the mechanism correctly:
@@ -114,11 +109,9 @@ The cart features a **power screw-driven folding mechanism** that enables contro
 ---
 
 ## Analysis & Validation
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 ### Structural FEA — Roof Weldment
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 FEA simulation of the roof weldment structure was performed to validate structural integrity under operational loads:
@@ -133,7 +126,6 @@ FEA simulation of the roof weldment structure was performed to validate structur
 </div>
 
 ### Buckling Analysis
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 Critical slender members were evaluated for buckling failure using both hand calculations and FEA — results cross-validated to confirm analysis accuracy:
@@ -152,7 +144,6 @@ Critical slender members were evaluated for buckling failure using both hand cal
 </div>
 
 ### Tolerance Stack-Up Analysis
-
 {: .mt-4 .mb-3 .font-weight-bold }
 
 A tolerance stack-up analysis was performed on the folding joints and locking interfaces to ensure reliable assembly and operation across the full manufacturing tolerance range:
@@ -173,14 +164,13 @@ A tolerance stack-up analysis was performed on the folding joints and locking in
 ---
 
 ## Impact
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 > **Customer Setup Time** reduced by **4x** — Quick-deploy folding mechanism requires no tools and minimal training
-> {: .block-tip }
+{: .block-tip }
 
 > **Shipping Cost** reduced by **3x** — Collapsed volume allows significantly more units per shipment
-> {: .block-tip }
+{: .block-tip }
 
 This product is now commercially available as the **PK-CBC510** in Par-Kan's Ground Support Equipment lineup, serving airline and ground handling operators. The novel folding mechanism is protected by a **pending patent**.
 
@@ -189,7 +179,6 @@ This product is now commercially available as the **PK-CBC510** in Par-Kan's Gro
 ---
 
 ## Technical Skills Demonstrated
-
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 - **Sheet Metal Design** — Complex weldment assemblies designed for manufacturing
