@@ -454,6 +454,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-enn-snake-game-neural-network-trained-with-genetic-algorithm",
+          title: 'ENN Snake Game — Neural Network Trained with Genetic Algorithm',
+          description: "Training neural networks to play Snake autonomously using evolutionary algorithms — implemented in JavaScript",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/enn_snake_game/";
             },},{id: "projects-foldable-baggage-cart-pk-cbc510",
           title: 'Foldable Baggage Cart (PK-CBC510)',
           description: "Patent-pending collapsible ground support equipment redesign — designed at Par-Kan Company",
