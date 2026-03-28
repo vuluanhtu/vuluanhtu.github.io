@@ -5,7 +5,7 @@ permalink: /projects/
 description: Engineering projects demonstrating mechanical design, analysis, prototyping, and system integration capabilities.
 nav: true
 nav_order: 3
-display_categories: [design, prototyping]
+display_categories: [design, prototyping, software]
 horizontal: false
 ---
 
