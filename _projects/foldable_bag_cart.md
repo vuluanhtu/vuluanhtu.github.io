@@ -83,6 +83,29 @@ Design of Experiment (DOE) methodology was applied to evaluate multiple critical
   Design study comparing critical linkage configurations in SolidWorks
 </div>
 
+### End Wall Technical Drawings
+{: .mt-4 .mb-3 .font-weight-bold }
+
+Detailed engineering drawings were produced for all fabricated components. The end wall is shown here as a representative example — documenting the standard orthographic views and sheet metal flat pattern with all critical dimensions and tolerances.
+
+<div class="pswp-gallery" id="gallery-drawings">
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="{{ '/assets/img/projects/foldable_bag_cart/FBC end wall standard views.jpg' | relative_url }}" data-pswp-width="1323" data-pswp-height="899" target="_blank">
+        <img src="{{ '/assets/img/projects/foldable_bag_cart/FBC end wall standard views.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="FBC End Wall Standard Views" />
+      </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="{{ '/assets/img/projects/foldable_bag_cart/FBC end wall flat pattern.jpg' | relative_url }}" data-pswp-width="907" data-pswp-height="726" target="_blank">
+        <img src="{{ '/assets/img/projects/foldable_bag_cart/FBC end wall flat pattern.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="FBC End Wall Flat Pattern" />
+      </a>
+    </div>
+  </div>
+</div>
+<div class="caption">
+  End wall engineering drawing: standard orthographic views (left) and sheet metal flat pattern (right) — representative of the technical drawing standard maintained across all fabricated components
+</div>
+
 ### Folding Mechanism
 {: .mt-4 .mb-3 .font-weight-bold }
 
@@ -143,6 +166,29 @@ Critical slender members were evaluated for buckling failure using both hand cal
   Buckling analysis: FEA results cross-validated against hand calculations to ensure structural safety margin
 </div>
 
+### Weld Strength Analysis
+{: .mt-4 .mb-3 .font-weight-bold }
+
+Weld joints at structural connections were analyzed for adequacy under operational loads using two independent methods per AISC standard — results from both approaches were cross-validated to confirm the design:
+
+<div class="pswp-gallery" id="gallery-weld">
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="{{ '/assets/img/projects/foldable_bag_cart/AISC Steel construction manual 14th ed.jpg' | relative_url }}" data-pswp-width="1363" data-pswp-height="669" target="_blank">
+        <img src="{{ '/assets/img/projects/foldable_bag_cart/AISC Steel construction manual 14th ed.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Weld Calculation via AISC Steel Construction Manual" />
+      </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="{{ '/assets/img/projects/foldable_bag_cart/Shigley's Mechanical Engineering Design 10th.jpg' | relative_url }}" data-pswp-width="936" data-pswp-height="718" target="_blank">
+        <img src="{{ '/assets/img/projects/foldable_bag_cart/Shigley's Mechanical Engineering Design 10th.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Weld Calculation via Shigley's Method" />
+      </a>
+    </div>
+  </div>
+</div>
+<div class="caption">
+  Weld strength calculated using two methods per AISC standard: directly from the AISC Steel Construction Manual 14th ed. (left) and using the weld group analysis approach from Shigley's Mechanical Engineering Design (right) — both results compared for confidence
+</div>
+
 ### Tolerance Stack-Up Analysis
 {: .mt-4 .mb-3 .font-weight-bold }
 
@@ -182,6 +228,8 @@ This product is now commercially available as the **PK-CBC510** in Par-Kan's Gro
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 - **Sheet Metal Design** — Complex weldment assemblies designed for manufacturing
+- **Engineering Drawings** — Detailed component drawings produced to industry standards, including sheet metal flat patterns
+- **Weld Analysis** — Weld strength calculated per AISC standard using two independent methods (AISC Manual & Shigley's) for cross-validation
 - **Mechanism Design** — Power screw and linkage system for controlled folding
 - **Design of Experiment (DOE)** — Systematic evaluation of linkage configurations to optimize design parameters
 - **FEA Simulation** — Structural and buckling analysis with SolidWorks Simulation
