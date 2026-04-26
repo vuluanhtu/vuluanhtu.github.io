@@ -179,8 +179,8 @@ Weld joints at structural connections were analyzed for adequacy under operation
       </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-      <a href="{{ '/assets/img/projects/foldable_bag_cart/Shigley's Mechanical Engineering Design 10th.jpg' | relative_url }}" data-pswp-width="936" data-pswp-height="718" target="_blank">
-        <img src="{{ '/assets/img/projects/foldable_bag_cart/Shigley's Mechanical Engineering Design 10th.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Weld Calculation via Shigley's Method" />
+      <a href="{{ '/assets/img/projects/foldable_bag_cart/Shigley Mechanical Engineering Design 10th.jpg' | relative_url }}" data-pswp-width="936" data-pswp-height="718" target="_blank">
+        <img src="{{ '/assets/img/projects/foldable_bag_cart/Shigley Mechanical Engineering Design 10th.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Weld Calculation via Shigley's Method" />
       </a>
     </div>
   </div>
