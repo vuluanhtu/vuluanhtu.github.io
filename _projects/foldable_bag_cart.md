@@ -15,7 +15,7 @@ images:
 >
 > **Patent-Pending** innovation • **4x** customer setup time reduction • **3x** shipping cost reduction
 >
-> 📅 2023 - Present | 🏢 Par-Kan Company | ✈️ Ground Support Equipment | 🔒 Patent Pending
+> 📅 2025 - Present | 🏢 Par-Kan Company | ✈️ Ground Support Equipment | 🔒 Patent Pending
 {: .block-tip }
 
 ## Project Overview
@@ -83,6 +83,24 @@ Design of Experiment (DOE) methodology was applied to evaluate multiple critical
   Design study comparing critical linkage configurations in SolidWorks
 </div>
 
+### Assembly Complexity & CAD Management
+{: .mt-4 .mb-3 .font-weight-bold }
+
+The PK-CBC510 is a **1000+ component assembly**, reflecting the mechanical complexity required to achieve a reliable, patent-pending folding mechanism in a demanding airport ramp environment. Managing a SolidWorks assembly of this scale required disciplined file organization, naming conventions, and configuration management throughout the project:
+
+<div class="pswp-gallery" id="gallery-component-count">
+  <div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+      <a href="{{ '/assets/img/projects/foldable_bag_cart/FBC Component Count.jpg' | relative_url }}" data-pswp-width="1476" data-pswp-height="699" target="_blank">
+        <img src="{{ '/assets/img/projects/foldable_bag_cart/FBC Component Count.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="FBC Component Count" />
+      </a>
+    </div>
+  </div>
+</div>
+<div class="caption">
+  SolidWorks component count for the PK-CBC510 assembly — over 1000 components managed across the full product structure
+</div>
+
 ### End Wall Technical Drawings
 {: .mt-4 .mb-3 .font-weight-bold }
 
@@ -146,6 +164,20 @@ FEA simulation of the roof weldment structure was performed to validate structur
 </div>
 <div class="caption">
   FEA simulation of the roof weldment under load, verifying structural performance before prototyping
+</div>
+
+### Structural FEA — 5th Wheel
+{: .mt-4 .mb-3 .font-weight-bold }
+
+FEA simulation of the 5th wheel assembly was performed to validate structural integrity under the tow loads it experiences during cart operation:
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include video.liquid path="assets/video/projects/foldable_bag_cart/FBC 5th Wheel FEA.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true muted=true %}
+  </div>
+</div>
+<div class="caption">
+  FEA simulation of the 5th wheel assembly under tow load, verifying structural adequacy before prototyping
 </div>
 
 ### Buckling Analysis
@@ -228,6 +260,7 @@ This product is now commercially available as the **PK-CBC510** in Par-Kan's Gro
 {: .mt-5 .mb-4 .border-bottom .pb-3 .font-weight-bold }
 
 - **Sheet Metal Design** — Complex weldment assemblies designed for manufacturing
+- **Large Assembly CAD Management** — Organized and managed a 1000+ component SolidWorks assembly with disciplined file structure and configuration control
 - **Engineering Drawings** — Detailed component drawings produced to industry standards, including sheet metal flat patterns
 - **Weld Analysis** — Weld strength calculated per AISC standard using two independent methods (AISC Manual & Shigley's) for cross-validation
 - **Mechanism Design** — Power screw and linkage system for controlled folding
